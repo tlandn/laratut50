@@ -1,0 +1,9 @@
+@import "pages/home";
+
+body {
+  padding-top: 400px;
+  color:red;
+}
+body, label, .checkbox label {
+  font-weight: 300;
+}
